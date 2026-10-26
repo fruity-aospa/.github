@@ -3,6 +3,11 @@
 Unofficial Paranoid Android (AOSPA) builds and trees for the Nothing Phone (3a), codename `asteroids`
 (Qualcomm SM7635, kernel 6.6, Android 17).
 
+## AI assistance
+The work in this organization is developed with AI assistance. AI tools are used for log analysis,
+code review, drafting changes and writing commit messages. The maintainer reviews the changes and does
+the builds and device testing.
+
 ## Where things are
 
 Everything is tracked by [`manifest`](https://github.com/fruity-aospa/manifest), branch `asteroids`.
@@ -24,8 +29,3 @@ repo sync -c
 Forks keep their upstream history. The kernel carries Qualcomm (CLO) and Google ACK changes under their
 original authors, and ported commits keep the upstream author with a link to the source commit.
 
-## AI assistance
-
-The work in this organization is developed with AI assistance. AI tools are used for log analysis,
-code review, drafting changes and writing commit messages. The maintainer reviews the changes and does
-the builds and device testing.
